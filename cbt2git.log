@@ -1,0 +1,7 @@
+2023-08-06 05:18:12.571717 - Initialized conversion of CBT573
+2023-08-06 05:18:12.613282 - Received CBT.V505.FILE573.PDS from FILE573.XMI 
+2023-08-06 05:18:12.615741 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE573.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:18:12.616842 - Found $$NOTE.txt (text/plain) in CBT.V505.FILE573.PDS, moved to PDS/$$NOTE
+2023-08-06 05:18:12.617927 - Found @FILE573.txt (text/plain) in CBT.V505.FILE573.PDS, moved to PDS/@FILE573
+2023-08-06 05:18:12.618948 - Found IEFUJV.txt (text/plain) in CBT.V505.FILE573.PDS, moved to PDS/IEFUJV
+2023-08-06 05:18:12.619974 - Found IRAMPF.txt (text/plain) in CBT.V505.FILE573.PDS, moved to PDS/IRAMPF
