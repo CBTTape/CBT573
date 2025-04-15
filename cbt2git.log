@@ -1,6 +1,6 @@
-2025-04-13 20:49:19.381692 - Received CBT.V508.FILE573.PDS from FILE573.XMI 
-2025-04-13 20:49:19.382446 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/$$$#DATE
-2025-04-13 20:49:19.382525 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/$$NOTE
-2025-04-13 20:49:19.382592 - Found @FILE573.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/@FILE573
-2025-04-13 20:49:19.382663 - Found IEFUJV.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/IEFUJV
-2025-04-13 20:49:19.382732 - Found IRAMPF.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/IRAMPF
+2025-04-15 03:39:08.162061 - Received CBT.V508.FILE573.PDS from FILE573.XMI 
+2025-04-15 03:39:08.163207 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/$$$#DATE
+2025-04-15 03:39:08.163505 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/$$NOTE
+2025-04-15 03:39:08.163825 - Found @FILE573.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/@FILE573
+2025-04-15 03:39:08.164418 - Found IEFUJV.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/IEFUJV
+2025-04-15 03:39:08.164664 - Found IRAMPF.txt (text/plain) in CBT.V508.FILE573.PDS, moved to PDS/IRAMPF
